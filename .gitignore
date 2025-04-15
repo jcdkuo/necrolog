@@ -1,0 +1,32 @@
+# Binaries
+necrolog
+necrologctl
+
+# Build artifacts
+*.out
+*.log
+*.zip
+
+# Dependency files
+vendor/
+
+# Go modules (optional cache)
+go.sum
+
+# Environment configs
+.env
+.env.*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Test & coverage
+*.test
+*.coverprofile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
